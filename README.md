@@ -12,6 +12,9 @@
 <h2>Repository 사용법</h2>    
 해당 주차의 branch를 생성하여 본인의 branch에만 소스코드를 올릴 수 있도록 합니다.  
 
+![image](https://user-images.githubusercontent.com/81570533/175817348-7dc42b66-34c7-48c1-9bd6-012fa13da71d.png)
+
+
 - **git init** -> "해당 폴더를 git으로 버전관리 하겠다." 라는 뜻의 명령어. .git파일이 버전을 관리하는 파일로 생성된다. 
 - **git branch 브랜치명** -> 브랜치를 생성한다. 브랜치명은 해당주자+week. ex) git branch 1week
 - **git checkout 브랜치명** -> 해당 브랜치로 이동. 처음에는 모두 디폴트값으로 master브랜치에 있을 것임. 반드시 해당 주차 브랜치로 이동 후 작업하기!!!!
