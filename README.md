@@ -10,7 +10,7 @@
 ++ solved.ac(백준과 연동되어 티어 측정) : https://solved.ac/
 
 <h2>Repository 사용법</h2>    
-개개인의 branch를 생성하여 본인의 branch에만 소스코드를 올릴 수 있도록 합니다.  
+해당 주차의 branch를 생성하여 본인의 branch에만 소스코드를 올릴 수 있도록 합니다.  
 
 - **git init** -> "해당 폴더를 git으로 버전관리 하겠다." 라는 뜻의 명령어. .git파일이 버전을 관리하는 파일로 생성된다. 
 - **git branch 브랜치명** -> 브랜치를 생성한다. 브랜치명은 해당주자+week. ex) git branch 1week
@@ -18,5 +18,5 @@
 - **git add 파일명** -> 해당 파일을 staging area로 올린다. <strong>꼭 다른 파일 말고 cpp, py파일만 올리기!!!</strong> ex) git add 1406.cpp 
 - **git commit -m "[해당 자료구조명] 백준 문제번호 문제이름"**  ex) git commit -m "[연결리스트] 백준1158 요세푸스 문제" -> 버전을 만듦.
 - **git branch** -> push 하기 전에 마지막으로 branch 확인. 현재 작업중인 branch 출력됨. 본인 이름 맞으면 통과
-- **git push origin 브랜치명** : 원격저장소에 push한다. ex) git push origin seongho
-- **git pull origin 브랜치명** : 원격저장소의 최신 버전을 로컬저장소로 가져온다. 예를들어서, 제가 README.md파일을 원격저장소에서 수정을 했습니다. 그 후 로컬저장소와 원격저장소의 파일 내용을 같게 하기 위해서 git pull origin tutor_lec을 해서 로컬저장소를 최신화시켜줬습니다. 
+- **git push origin 브랜치명** : 원격저장소에 push한다. ex) git push origin 1week
+
