@@ -10,6 +10,7 @@
 ++ solved.ac(백준과 연동되어 티어 측정) : https://solved.ac/
 
 <h2>Repository 사용법</h2>    
+<b>본인 이름으로 된 Repository</b>에서 
 해당 주차의 branch를 생성하여 해당 주차의 branch에만 소스코드를 올릴 수 있도록 합니다.  
 
 
