@@ -16,7 +16,7 @@
 - **git branch 브랜치명** -> 브랜치를 생성한다. 브랜치명은 해당주자+week. ex) git branch 1week
 - **git checkout 브랜치명** -> 해당 브랜치로 이동. 처음에는 모두 디폴트값으로 master브랜치에 있을 것임. 반드시 해당 주차 브랜치로 이동 후 작업하기!!!!
 - **git add 파일명** -> 해당 파일을 staging area로 올린다. <strong>꼭 다른 파일 말고 cpp, py파일만 올리기!!!</strong> ex) git add 1406.cpp 
-- **git commit -m "[해당 자료구조명] 백준 문제번호 문제이름"**  ex) git commit -m "[연결리스트] 백준1158 요세푸스 문제" -> 버전을 만듦.
-- **git branch** -> push 하기 전에 마지막으로 branch 확인. 현재 작업중인 branch 출력됨. 본인 이름 맞으면 통과
+- **git commit -m "백준 문제번호 문제이름 [난이도]"** -> 버전을 만든다. ex) git commit -m "백준 1158 요세푸스 문제 [실버2]" 
+- **git branch** -> push 하기 전에 마지막으로 branch 확인. 현재 작업중인 branch 출력된다. 맞으면 넘어가기
 - **git push origin 브랜치명** : 원격저장소에 push한다. ex) git push origin 1week
 
