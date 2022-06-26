@@ -13,8 +13,9 @@
 해당 주차의 branch를 생성하여 본인의 branch에만 소스코드를 올릴 수 있도록 합니다.  
 
 <h3>예시</h3>
-![image](https://user-images.githubusercontent.com/81570533/175817348-7dc42b66-34c7-48c1-9bd6-012fa13da71d.png)
+![image](https://user-images.githubusercontent.com/81570533/175817395-520597b9-8ded-4f18-9553-03c77c1606e0.png)
 
+<br><hr><br>
 
 - **git init** -> "해당 폴더를 git으로 버전관리 하겠다." 라는 뜻의 명령어. .git파일이 버전을 관리하는 파일로 생성된다. 
 - **git branch 브랜치명** -> 브랜치를 생성한다. 브랜치명은 해당주자+week. ex) git branch 1week
