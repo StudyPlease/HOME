@@ -14,7 +14,6 @@
 
 <h3>예시</h3>
 <img src="https://user-images.githubusercontent.com/81570533/175817395-520597b9-8ded-4f18-9553-03c77c1606e0.png">
-![image](https://user-images.githubusercontent.com/81570533/175817395-520597b9-8ded-4f18-9553-03c77c1606e0.png)
 
 <br><hr><br>
 
