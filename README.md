@@ -12,6 +12,7 @@
 <h2>Repository 사용법</h2>    
 해당 주차의 branch를 생성하여 본인의 branch에만 소스코드를 올릴 수 있도록 합니다.  
 
+<h3>예시</h3>
 ![image](https://user-images.githubusercontent.com/81570533/175817348-7dc42b66-34c7-48c1-9bd6-012fa13da71d.png)
 
 
