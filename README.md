@@ -33,7 +33,7 @@
   <img src="https://user-images.githubusercontent.com/81570533/175817395-520597b9-8ded-4f18-9553-03c77c1606e0.png">
   <em><strong>예시를 위해 0week로 시작했고, 2022-06-27부터는 1week 시작!!!!!!!!!!!</strong></em>
 </details>
-<br><hr><br>
+<hr><br>
 <h3>1주차 문제</h3>
 쉬운 : https://www.acmicpc.net/problem/10430<br>
 어려운 : https://www.acmicpc.net/problem/10828
