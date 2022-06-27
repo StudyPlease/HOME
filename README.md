@@ -36,6 +36,7 @@
 <hr><br>
 <h3>1주차 문제</h3>
 쉬운 : https://www.acmicpc.net/problem/10430<br>
+쉬운 : https://www.acmicpc.net/problem/2609<br>
 어려운 : https://www.acmicpc.net/problem/10828
 <br><hr><br>
 
